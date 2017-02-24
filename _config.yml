@@ -9,6 +9,7 @@ description: Android Developer,爱安卓,爱生活,爱穗穗Y(^o^)Y
 author: Joy Whale
 language: zh-Hans
 timezone:
+avatar: /images/avatar.png
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -72,3 +73,15 @@ deploy:
    repository: https://github.com/Joy-Whale/joy-whale.github.io.git
    branch: master
 
+
+
+#########################################################################
+# Plus插件
+# 多说评论
+# duoshuo_shortname: joywhale
+
+# 阅读统计插件
+# leancloud_visitors:
+#   enable: true
+#   app_id: fhSqYcVWLdqzNm482irB8zEY-gzGzoHsz
+#   app_key: SNwjmJne1cJ87QxYrxsvtV8l
